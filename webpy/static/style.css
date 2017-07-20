@@ -1,0 +1,133 @@
+/* Navigation */
+
+.nav{
+  background-color: #595959;
+  color: white;
+  list-style: none;
+  text-align: center;
+  padding: 20px 0;
+  font-family: 'Covered By Your Grace', sans-serif;
+}
+
+.nav li{
+  display: inline-block;
+  padding: 0 25px;
+  background-color: #595959;
+}
+
+.nav li a{
+  text-decoration: none;
+  background-color: #595959;
+  color: white;
+}
+
+.nav li a:hover{
+  color: skyblue;
+}
+
+
+
+
+/* Main Page */
+
+.jumbotron {
+  background: url(https://images3.alphacoders.com/816/thumb-1920-81659.jpg) no-repeat center center;
+  /* background-size: cover */
+  height: 800px;
+}
+
+.jumbotron h1{
+  color: peru;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 90px;
+  font-weight: 900;
+  margin: 0;
+  padding-top: 300px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+
+
+/* Tricktips */
+
+.tricktipsback {
+  background: url(https://images6.alphacoders.com/417/thumb-1920-417020.jpg) no-repeat center center;
+  height: 400px;
+}
+
+.tricktipsback h1 {
+  color: peru;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 90px;
+  font-weight: 900;
+  margin: 0;
+  padding-top: 150px;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.ollie {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 10px;
+
+}
+
+
+
+
+
+
+/* Channels */
+
+
+.channelsback{
+  background: url(http://www.drodd.com/images14/blue-wallpaper11.jpg) no-repeat center center;
+  height: 400px
+}
+
+.channelsback h1 {
+  color: peru;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 90px;
+  font-weight: 900;
+  margin: 0;
+  padding-top: 150px;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.chanlist{
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 25px;
+  list-style: none;
+  text-decoration: none;
+}
+
+.chanlist li{
+  padding: 15px;
+}
+
+
+
+
+
+h2 {
+  font-family: 'Covered By Your Grace', sans-serif;
+  color: peru;
+}
+
+
+p {
+  font-family: 'Merriweather Sans', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+  /* line-height: 1.5em; */
+  /* word-spacing: 0.3em; */
+  /* letter-spacing: 0.3em; */
